@@ -10,3 +10,6 @@
 https://docs.sqlc.dev/en/stable/overview/install.html 
 
 https://pkg.go.dev/github.com/pressly/goose/v3#section-readme 
+goose -s create create_products  sql
+
+sqlc generate
