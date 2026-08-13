@@ -13,3 +13,5 @@ https://pkg.go.dev/github.com/pressly/goose/v3#section-readme
 goose -s create create_products  sql
 
 sqlc generate
+
+postgres://postgres:admin@localhost:5432/ecom?sslmode=disable
