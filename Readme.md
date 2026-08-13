@@ -7,3 +7,6 @@
 <img src="picss\flow.png" alt="Description" style="width:300%;">
 
 
+https://docs.sqlc.dev/en/stable/overview/install.html 
+
+https://pkg.go.dev/github.com/pressly/goose/v3#section-readme 
