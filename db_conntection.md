@@ -438,4 +438,9 @@ No Docker is necessary if PostgreSQL is installed and running locally.
 
 
 
+goose -s create create_products  sql
+
+sqlc generate
+
+postgres://postgres:admin@localhost:5432/ecom?sslmode=disable
 
